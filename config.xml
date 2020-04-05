@@ -4,6 +4,7 @@
     <description>
         This app implements the Nordic UART BLE Service.
     </description>
+    <preference name="phonegap-version" value="cli-8.0.0" />
     <author href="http://github.com/don">
         Don Coleman
     </author>
